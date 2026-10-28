@@ -1,0 +1,4 @@
+interface:
+  display_name: "福建农林大学园艺学院院运会计分系统"
+  short_description: "院运会计分、名单核对、裁判确认与评奖，含电脑临时服务器部署及匿名示例"
+  default_prompt: "使用 $fafu-horticulture-sports-scoring，依据当届规程搭建计分台并说明电脑临时服务器部署方式。"

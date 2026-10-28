@@ -1,0 +1,4 @@
+data/
+*.log
+*links*.txt
+.env

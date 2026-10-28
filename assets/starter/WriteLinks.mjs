@@ -1,0 +1,14 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.dirname(fileURLToPath(import.meta.url));
+const args=process.argv.slice(2);
+if(args.length!==2||args[0]!=='--base')throw Error('Usage: node WriteLinks.mjs --base https://YOUR-HOST');
+const url=new URL(args[1]);
+if(!['https:','http:'].includes(url.protocol)||url.username||url.password||url.search||url.hash||url.pathname!=='/')throw Error('Use an HTTP(S) origin without path, credentials or query.');
+const store=process.env.SCORE_DATA_DIR||path.join(root,'data');
+const keys=JSON.parse(await fs.readFile(path.join(store,'access.json'),'utf8'));
+if(!['editor','viewer'].every(k=>typeof keys[k]==='string'&&/^[a-f0-9]{48}$/.test(keys[k])))throw Error('Invalid local access file.');
+const text=['PRIVATE - DO NOT PUBLISH','Editor: '+url.origin+'/?key='+keys.editor,'Viewer: '+url.origin+'/?key='+keys.viewer].join('\n')+'\n';
+await fs.writeFile(path.join(store,'share-links.txt'),text,{mode:0o600});
+console.log('Saved private role links to the data directory (share-links.txt).');

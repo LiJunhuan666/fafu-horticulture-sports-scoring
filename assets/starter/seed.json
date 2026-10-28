@@ -1,0 +1,1262 @@
+{
+  "teams": [
+    {
+      "name": "示例代表队A",
+      "group": "丙组"
+    },
+    {
+      "name": "示例代表队B",
+      "group": "丙组"
+    },
+    {
+      "name": "示例代表队C",
+      "group": "丁组"
+    },
+    {
+      "name": "示例代表队D",
+      "group": "丁组"
+    }
+  ],
+  "events": [
+    {
+      "id": "丙组-男子-100-pre",
+      "group": "丙组",
+      "sex": "男子",
+      "key": "100-pre",
+      "name": "100米预赛",
+      "type": "track",
+      "preliminary": true,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p001",
+          "name": "选手001",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p002",
+          "name": "选手002",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p005",
+          "name": "选手005",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p006",
+          "name": "选手006",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-男子-100",
+      "group": "丙组",
+      "sex": "男子",
+      "key": "100",
+      "name": "100米决赛",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p001",
+          "name": "选手001",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p002",
+          "name": "选手002",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p005",
+          "name": "选手005",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p006",
+          "name": "选手006",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-男子-200",
+      "group": "丙组",
+      "sex": "男子",
+      "key": "200",
+      "name": "200米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p001",
+          "name": "选手001",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p002",
+          "name": "选手002",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p005",
+          "name": "选手005",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p006",
+          "name": "选手006",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-男子-400",
+      "group": "丙组",
+      "sex": "男子",
+      "key": "400",
+      "name": "400米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p001",
+          "name": "选手001",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p002",
+          "name": "选手002",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p005",
+          "name": "选手005",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p006",
+          "name": "选手006",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-男子-800",
+      "group": "丙组",
+      "sex": "男子",
+      "key": "800",
+      "name": "800米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p001",
+          "name": "选手001",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p002",
+          "name": "选手002",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p005",
+          "name": "选手005",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p006",
+          "name": "选手006",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-男子-1500",
+      "group": "丙组",
+      "sex": "男子",
+      "key": "1500",
+      "name": "1500米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p001",
+          "name": "选手001",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p002",
+          "name": "选手002",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p005",
+          "name": "选手005",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p006",
+          "name": "选手006",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-男子-high",
+      "group": "丙组",
+      "sex": "男子",
+      "key": "high",
+      "name": "跳高",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p001",
+          "name": "选手001",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p002",
+          "name": "选手002",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p005",
+          "name": "选手005",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p006",
+          "name": "选手006",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-男子-long",
+      "group": "丙组",
+      "sex": "男子",
+      "key": "long",
+      "name": "跳远",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p001",
+          "name": "选手001",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p002",
+          "name": "选手002",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p005",
+          "name": "选手005",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p006",
+          "name": "选手006",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-男子-shot",
+      "group": "丙组",
+      "sex": "男子",
+      "key": "shot",
+      "name": "铅球",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p001",
+          "name": "选手001",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p002",
+          "name": "选手002",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p005",
+          "name": "选手005",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p006",
+          "name": "选手006",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-男子-relay",
+      "group": "丙组",
+      "sex": "男子",
+      "key": "relay",
+      "name": "4×100米接力",
+      "type": "track",
+      "preliminary": false,
+      "relay": true,
+      "entries": [
+        {
+          "id": "demo-t0",
+          "name": "男子接力队",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-t1",
+          "name": "男子接力队",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-女子-100-pre",
+      "group": "丙组",
+      "sex": "女子",
+      "key": "100-pre",
+      "name": "100米预赛",
+      "type": "track",
+      "preliminary": true,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p003",
+          "name": "选手003",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p004",
+          "name": "选手004",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p007",
+          "name": "选手007",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p008",
+          "name": "选手008",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-女子-100",
+      "group": "丙组",
+      "sex": "女子",
+      "key": "100",
+      "name": "100米决赛",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p003",
+          "name": "选手003",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p004",
+          "name": "选手004",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p007",
+          "name": "选手007",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p008",
+          "name": "选手008",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-女子-200",
+      "group": "丙组",
+      "sex": "女子",
+      "key": "200",
+      "name": "200米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p003",
+          "name": "选手003",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p004",
+          "name": "选手004",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p007",
+          "name": "选手007",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p008",
+          "name": "选手008",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-女子-400",
+      "group": "丙组",
+      "sex": "女子",
+      "key": "400",
+      "name": "400米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p003",
+          "name": "选手003",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p004",
+          "name": "选手004",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p007",
+          "name": "选手007",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p008",
+          "name": "选手008",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-女子-800",
+      "group": "丙组",
+      "sex": "女子",
+      "key": "800",
+      "name": "800米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p003",
+          "name": "选手003",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p004",
+          "name": "选手004",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p007",
+          "name": "选手007",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p008",
+          "name": "选手008",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-女子-1500",
+      "group": "丙组",
+      "sex": "女子",
+      "key": "1500",
+      "name": "1500米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p003",
+          "name": "选手003",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p004",
+          "name": "选手004",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p007",
+          "name": "选手007",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p008",
+          "name": "选手008",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-女子-high",
+      "group": "丙组",
+      "sex": "女子",
+      "key": "high",
+      "name": "跳高",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p003",
+          "name": "选手003",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p004",
+          "name": "选手004",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p007",
+          "name": "选手007",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p008",
+          "name": "选手008",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-女子-long",
+      "group": "丙组",
+      "sex": "女子",
+      "key": "long",
+      "name": "跳远",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p003",
+          "name": "选手003",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p004",
+          "name": "选手004",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p007",
+          "name": "选手007",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p008",
+          "name": "选手008",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-女子-shot",
+      "group": "丙组",
+      "sex": "女子",
+      "key": "shot",
+      "name": "铅球",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p003",
+          "name": "选手003",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p004",
+          "name": "选手004",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-p007",
+          "name": "选手007",
+          "team": "示例代表队B"
+        },
+        {
+          "id": "demo-p008",
+          "name": "选手008",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丙组-女子-relay",
+      "group": "丙组",
+      "sex": "女子",
+      "key": "relay",
+      "name": "4×100米接力",
+      "type": "track",
+      "preliminary": false,
+      "relay": true,
+      "entries": [
+        {
+          "id": "demo-t0",
+          "name": "女子接力队",
+          "team": "示例代表队A"
+        },
+        {
+          "id": "demo-t1",
+          "name": "女子接力队",
+          "team": "示例代表队B"
+        }
+      ]
+    },
+    {
+      "id": "丁组-男子-100-pre",
+      "group": "丁组",
+      "sex": "男子",
+      "key": "100-pre",
+      "name": "100米预赛",
+      "type": "track",
+      "preliminary": true,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p009",
+          "name": "选手009",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p010",
+          "name": "选手010",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p013",
+          "name": "选手013",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p014",
+          "name": "选手014",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-男子-100",
+      "group": "丁组",
+      "sex": "男子",
+      "key": "100",
+      "name": "100米决赛",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p009",
+          "name": "选手009",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p010",
+          "name": "选手010",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p013",
+          "name": "选手013",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p014",
+          "name": "选手014",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-男子-200",
+      "group": "丁组",
+      "sex": "男子",
+      "key": "200",
+      "name": "200米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p009",
+          "name": "选手009",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p010",
+          "name": "选手010",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p013",
+          "name": "选手013",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p014",
+          "name": "选手014",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-男子-400",
+      "group": "丁组",
+      "sex": "男子",
+      "key": "400",
+      "name": "400米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p009",
+          "name": "选手009",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p010",
+          "name": "选手010",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p013",
+          "name": "选手013",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p014",
+          "name": "选手014",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-男子-800",
+      "group": "丁组",
+      "sex": "男子",
+      "key": "800",
+      "name": "800米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p009",
+          "name": "选手009",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p010",
+          "name": "选手010",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p013",
+          "name": "选手013",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p014",
+          "name": "选手014",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-男子-1500",
+      "group": "丁组",
+      "sex": "男子",
+      "key": "1500",
+      "name": "1500米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p009",
+          "name": "选手009",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p010",
+          "name": "选手010",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p013",
+          "name": "选手013",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p014",
+          "name": "选手014",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-男子-high",
+      "group": "丁组",
+      "sex": "男子",
+      "key": "high",
+      "name": "跳高",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p009",
+          "name": "选手009",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p010",
+          "name": "选手010",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p013",
+          "name": "选手013",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p014",
+          "name": "选手014",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-男子-long",
+      "group": "丁组",
+      "sex": "男子",
+      "key": "long",
+      "name": "跳远",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p009",
+          "name": "选手009",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p010",
+          "name": "选手010",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p013",
+          "name": "选手013",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p014",
+          "name": "选手014",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-男子-shot",
+      "group": "丁组",
+      "sex": "男子",
+      "key": "shot",
+      "name": "铅球",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p009",
+          "name": "选手009",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p010",
+          "name": "选手010",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p013",
+          "name": "选手013",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p014",
+          "name": "选手014",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-男子-relay",
+      "group": "丁组",
+      "sex": "男子",
+      "key": "relay",
+      "name": "4×100米接力",
+      "type": "track",
+      "preliminary": false,
+      "relay": true,
+      "entries": [
+        {
+          "id": "demo-t2",
+          "name": "男子接力队",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-t3",
+          "name": "男子接力队",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-女子-100-pre",
+      "group": "丁组",
+      "sex": "女子",
+      "key": "100-pre",
+      "name": "100米预赛",
+      "type": "track",
+      "preliminary": true,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p011",
+          "name": "选手011",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p012",
+          "name": "选手012",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p015",
+          "name": "选手015",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p016",
+          "name": "选手016",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-女子-100",
+      "group": "丁组",
+      "sex": "女子",
+      "key": "100",
+      "name": "100米决赛",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p011",
+          "name": "选手011",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p012",
+          "name": "选手012",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p015",
+          "name": "选手015",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p016",
+          "name": "选手016",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-女子-200",
+      "group": "丁组",
+      "sex": "女子",
+      "key": "200",
+      "name": "200米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p011",
+          "name": "选手011",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p012",
+          "name": "选手012",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p015",
+          "name": "选手015",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p016",
+          "name": "选手016",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-女子-400",
+      "group": "丁组",
+      "sex": "女子",
+      "key": "400",
+      "name": "400米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p011",
+          "name": "选手011",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p012",
+          "name": "选手012",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p015",
+          "name": "选手015",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p016",
+          "name": "选手016",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-女子-800",
+      "group": "丁组",
+      "sex": "女子",
+      "key": "800",
+      "name": "800米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p011",
+          "name": "选手011",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p012",
+          "name": "选手012",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p015",
+          "name": "选手015",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p016",
+          "name": "选手016",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-女子-1500",
+      "group": "丁组",
+      "sex": "女子",
+      "key": "1500",
+      "name": "1500米",
+      "type": "track",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p011",
+          "name": "选手011",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p012",
+          "name": "选手012",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p015",
+          "name": "选手015",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p016",
+          "name": "选手016",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-女子-high",
+      "group": "丁组",
+      "sex": "女子",
+      "key": "high",
+      "name": "跳高",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p011",
+          "name": "选手011",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p012",
+          "name": "选手012",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p015",
+          "name": "选手015",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p016",
+          "name": "选手016",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-女子-long",
+      "group": "丁组",
+      "sex": "女子",
+      "key": "long",
+      "name": "跳远",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p011",
+          "name": "选手011",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p012",
+          "name": "选手012",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p015",
+          "name": "选手015",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p016",
+          "name": "选手016",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-女子-shot",
+      "group": "丁组",
+      "sex": "女子",
+      "key": "shot",
+      "name": "铅球",
+      "type": "field",
+      "preliminary": false,
+      "relay": false,
+      "entries": [
+        {
+          "id": "demo-p011",
+          "name": "选手011",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p012",
+          "name": "选手012",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-p015",
+          "name": "选手015",
+          "team": "示例代表队D"
+        },
+        {
+          "id": "demo-p016",
+          "name": "选手016",
+          "team": "示例代表队D"
+        }
+      ]
+    },
+    {
+      "id": "丁组-女子-relay",
+      "group": "丁组",
+      "sex": "女子",
+      "key": "relay",
+      "name": "4×100米接力",
+      "type": "track",
+      "preliminary": false,
+      "relay": true,
+      "entries": [
+        {
+          "id": "demo-t2",
+          "name": "女子接力队",
+          "team": "示例代表队C"
+        },
+        {
+          "id": "demo-t3",
+          "name": "女子接力队",
+          "team": "示例代表队D"
+        }
+      ]
+    }
+  ]
+}
